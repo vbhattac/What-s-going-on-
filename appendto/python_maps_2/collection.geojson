@@ -4,7 +4,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [41.742494, -74.045504]
+			"coordinates": [40.742494, -79.045504]
 		},
 		"properties": {
 			"flush": true,
@@ -12,118 +12,6 @@
 			"vault": false,
 			"description": "Sports",
 			"title": "Mazama",
-			"marker-size": "small"
-		}
-	}, {
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [41.642494, -74.055504]
-		},
-		"properties": {
-			"flush": false,
-			"shower": false,
-			"vault": true,
-			"description": "Study",
-			"title": "Claude Lewis Sno-Park-USFS",
-			"marker-size": "small"
-		}
-	}, {
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [41.242494, -74.245504]
-		},
-		"properties": {
-			"flush": true,
-			"shower": false,
-			"vault": false,
-			"description": "Movies",
-			"title": "Lost Creek",
-			"marker-size": "small"
-		}
-	}, {
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [41.542494, -74.645504]
-		},
-		"properties": {
-			"flush": false,
-			"shower": false,
-			"vault": true,
-			"description": "Sports",
-			"title": "Hamaker",
-			"marker-size": "small"
-		}
-	}, {
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [41.442494, -74.65504]
-		},
-		"properties": {
-			"flush": false,
-			"shower": false,
-			"vault": true,
-			"description": "Movies",
-			"title": "Huckleberry Mountain",
-			"marker-size": "small"
-		}
-	},  {
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [41.494, -74.0504]
-		},
-		"properties": {
-			"flush": false,
-			"shower": false,
-			"vault": true,
-			"description": "Movies",
-			"title": "Scott Creek",
-			"marker-size": "small"
-		}
-	}, {
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [41.2494, -74.04]
-		},
-		"properties": {
-			"flush": false,
-			"shower": false,
-			"vault": true,
-			"description": "Sports",
-			"title": "Thousand Springs Sno-Park-USFS",
-			"marker-size": "small"
-		}
-	}, {
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [41.94, -74.044]
-		},
-		"properties": {
-			"flush": false,
-			"shower": false,
-			"vault": true,
-			"description": "Movies",
-			"title": "Union Creek",
-			"marker-size": "small"
-		}
-	}, {
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [41.94494, -74.504]
-		},
-		"properties": {
-			"flush": false,
-			"shower": false,
-			"vault": false,
-			"description": "Sports",
-			"title": "Farewell Bend Campground",
 			"marker-size": "small"
 		}
 	}]
