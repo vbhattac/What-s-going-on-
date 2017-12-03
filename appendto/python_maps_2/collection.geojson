@@ -4,7 +4,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [40.442494, -79.945504]
+			"coordinates": [41.742494, -74.045504]
 		},
 		"properties": {
 			"flush": true,
@@ -18,7 +18,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [45.442494, -75.945504]
+			"coordinates": [41.642494, -74.055504]
 		},
 		"properties": {
 			"flush": false,
@@ -32,7 +32,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [42.442494, -70.945504]
+			"coordinates": [41.242494, -74.245504]
 		},
 		"properties": {
 			"flush": true,
@@ -46,7 +46,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [46.442494, -68.945504]
+			"coordinates": [41.542494, -74.645504]
 		},
 		"properties": {
 			"flush": false,
@@ -60,7 +60,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [45.442494, -72.967504]
+			"coordinates": [41.442494, -74.65504]
 		},
 		"properties": {
 			"flush": false,
@@ -70,39 +70,11 @@
 			"title": "Huckleberry Mountain",
 			"marker-size": "small"
 		}
-	}, {
+	},  {
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [41.442494, -69.967504]
-		},
-		"properties": {
-			"flush": false,
-			"shower": false,
-			"vault": true,
-			"description": "Study",
-			"title": "Natural Bridge -USFS",
-			"marker-size": "small"
-		}
-	}, {
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [43.442494, -75.967504]
-		},
-		"properties": {
-			"flush": false,
-			"shower": false,
-			"vault": false,
-			"description": "Study",
-			"title": "Farewell Bend",
-			"marker-size": "small"
-		}
-	}, {
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [49.442494, -77.967504]
+			"coordinates": [41.494, -74.0504]
 		},
 		"properties": {
 			"flush": false,
@@ -116,7 +88,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [46.442494, -73.967504]
+			"coordinates": [41.2494, -74.04]
 		},
 		"properties": {
 			"flush": false,
@@ -130,7 +102,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [42.442494, -70.98787]
+			"coordinates": [41.94, -74.044]
 		},
 		"properties": {
 			"flush": false,
@@ -144,7 +116,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [43.442494, -79.98787]
+			"coordinates": [41.94494, -74.504]
 		},
 		"properties": {
 			"flush": false,
