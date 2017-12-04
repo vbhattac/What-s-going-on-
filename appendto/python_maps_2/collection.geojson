@@ -11,9 +11,9 @@
         ]
       },
       "properties": {
-        "flush": true,
-        "shower": true,
-        "vault": false,
+        "Sports": true,
+        "Movies": false,
+        "Study": false,
         "description": "Sports",
         "title": "Mazama",
         "marker-size": "small"
@@ -29,9 +29,9 @@
         ]
       },
       "properties": {
-        "flush": false,
-        "shower": false,
-        "vault": true,
+        "Sports": false,
+        "Movies": false,
+        "Study":  true,
         "description": "Study",
         "title": "Claude Lewis Sno-Park-USFS",
         "marker-size": "small"
@@ -47,9 +47,9 @@
         ]
       },
       "properties": {
-        "flush": true,
-        "shower": false,
-        "vault": false,
+        "Sports": true,
+        "Movies": true,
+        "Study": false,
         "description": "Movies",
         "title": "Lost Creek",
         "marker-size": "small"
@@ -65,9 +65,9 @@
         ]
       },
       "properties": {
-        "flush": false,
-        "shower": false,
-        "vault": true,
+        "Sports": true,
+        "Movies": false,
+        "Study": false,
         "description": "Sports",
         "title": "Hamaker",
         "marker-size": "small"
@@ -83,9 +83,9 @@
         ]
       },
       "properties": {
-        "flush": false,
-        "shower": false,
-        "vault": true,
+        "Sports": false,
+        "Movies": true,
+        "Study": false,
         "description": "Movies",
         "title": "Huckleberry Mountain",
         "marker-size": "small"
@@ -101,9 +101,9 @@
         ]
       },
       "properties": {
-        "flush": false,
-        "shower": false,
-        "vault": true,
+        "Sports": false,
+        "Movies": true,
+        "Study": true,
         "description": "Movies",
         "title": "Scott Creek",
         "marker-size": "small"
@@ -119,9 +119,9 @@
         ]
       },
       "properties": {
-        "flush": false,
-        "shower": false,
-        "vault": true,
+        "Sports": false,
+        "Movies": false,
+        "Study": true,
         "description": "Sports",
         "title": "Thousand Springs Sno-Park-USFS",
         "marker-size": "small"
@@ -137,9 +137,9 @@
         ]
       },
       "properties": {
-        "flush": false,
-        "shower": false,
-        "vault": true,
+        "Sports": false,
+        "Movies": false,
+        "Study": true,
         "description": "Movies",
         "title": "Union Creek",
         "marker-size": "small"
@@ -155,9 +155,9 @@
         ]
       },
       "properties": {
-        "flush": false,
-        "shower": false,
-        "vault": false,
+        "Sports": false,
+        "Movies": false,
+        "Study": true,
         "description": "Sports",
         "title": "Farewell Bend Campground",
         "marker-size": "small"
